@@ -1,0 +1,30 @@
+
+html{
+	margin:20px;
+	}
+
+
+
+body{
+	background-image: url('cv.jpg');
+	background-repeat: no-repeat;
+	 background-attachment: fixed;
+ 	 background-size: 100% 100%;
+ 	 margin:10px;
+}
+
+label{
+	/*color:#111E6C;*/
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+h1{
+	color: orange;
+	text-align: center;
+	font-weight: bold;
+}
+input{
+	border-radius: 5px;
+}
+
